@@ -42,8 +42,3 @@ Files added/changed for deployment
 - `Procfile` — Gunicorn process
 - `requirements.txt` — root requirements
 - `README_RAILWAY.md` — Railway deployment notes
-- `.gitignore` — ignores for virtualenv, DB, and generated media
-
-If you'd like, I can:
-- Convert the app to use Postgres + SQLAlchemy and wire `DATABASE_URL`.
-- Add a small GitHub Actions workflow for tests and deploy previews.

@@ -1,4 +1,4 @@
-UIBRAS — Face recognition attendance (Flask)
+Facial Recognition Attendance System
 
 Overview
 - Simple Flask web app that captures student face images and performs recognition for attendance using DeepFace and OpenCV.
